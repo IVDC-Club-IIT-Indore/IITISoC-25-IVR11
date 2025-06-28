@@ -29,6 +29,7 @@ For our PS we are reffering to
 ### Prerequisites
 - Install ROS2 Humble
 - Install Gazebo for humble (Gazebo Fortress)
+- Install Nav2
 - Install Slamtoolbox for humble
 ```bash
 sudo apt install ros-humble-slam-toolbox
